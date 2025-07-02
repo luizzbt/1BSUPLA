@@ -13,3 +13,10 @@ p {
     color: black;
     font-size: 25px;
 }
+
+header {
+    color:blue;
+    font-size: 35px;
+    border-bottom: solid blue 5px;
+    padding: 20px;
+}
